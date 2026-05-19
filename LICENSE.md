@@ -1,4 +1,4 @@
-# 
+# exclusive bybit trading bot scripts is the best bybit trading bot scripts with price-monitoring and backtesting. Safe, reliable, and optimized for CEX, DEX, and algorithmic
 
 
 
